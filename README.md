@@ -29,19 +29,20 @@ Welcome to the Library Management System project! This C++ based system allows y
 6. **Explore the Library Management System:**
 
    - **Create a Book:**
-     ![Create Book](https://github.com/yogayataverma/Library_Management_System/assets/63913693/f90bff41-c2c0-4da2-b00c-410ab5760aaf)
+     ![image](https://github.com/yogayataverma/Libary_Managment_System/assets/63913693/f90bff41-c2c0-4da2-b00c-410ab5760aaf)
 
    - **Display All Books:**
-     ![Display All Books](https://github.com/yogayataverma/Library_Management_System/assets/63913693/987e055b-0e02-4ce8-a06a-9784f71ed3e3)
+    ![image](https://github.com/yogayataverma/Libary_Managment_System/assets/63913693/987e055b-0e02-4ce8-a06a-9784f71ed3e3)
 
    - **Display Specific Books:**
-     ![Display Specific Books](https://github.com/yogayataverma/Library_Management_System/assets/63913693/46f12ad8-e320-41e5-b2ac-2204a3e5c498)
+    ![image](https://github.com/yogayataverma/Libary_Managment_System/assets/63913693/46f12ad8-e320-41e5-b2ac-2204a3e5c498)
 
    - **Modify Book:**
-     ![Modify Book](https://github.com/yogayataverma/Library_Management_System/assets/63913693/b7703513-dded-44ce-9456-e005198e913e)
+      ![image](https://github.com/yogayataverma/Libary_Managment_System/assets/63913693/b7703513-dded-44ce-9456-e005198e913e)
 
    - **Delete Book:**
-     ![Delete Book](https://github.com/yogayataverma/Library_Management_System/assets/63913693/7304270e-6e90-4989-8729-82ba9431f44a)
+    ![image](https://github.com/yogayataverma/Libary_Managment_System/assets/63913693/7304270e-6e90-4989-8729-82ba9431f44a)
+
 
 ### Happy Coding!
 
