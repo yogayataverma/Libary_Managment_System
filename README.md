@@ -46,4 +46,4 @@ Welcome to the Library Management System project! This C++ based system allows y
 
 ### Happy Coding!
 
-Feel free to explore and enhance the Library Management System. If you encounter any issues, refer to the documentation or seek help from the community. Happy coding! 🚀
+Feel free to explore and enhance the Library Management System.Happy coding! 🚀
